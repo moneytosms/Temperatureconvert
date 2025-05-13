@@ -2,7 +2,7 @@
 
 A modern, responsive temperature converter web application that supports multiple temperature units with a beautiful user interface and advanced features.
 
-![Temperature Converter Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/b86d323a-591d-41a5-98e6-d53da0f4836c)
 
 ## Features ✨
 
@@ -107,12 +107,12 @@ We welcome contributions! Please feel free to submit a Pull Request.
 
 ## Authors 👥
 
-- [Your Name](https://github.com/yourusername) - _Initial work_
+- [Srimoneyshankar Ajith](https://github.com/moneytosms) - _Initial work_
 
 ## Acknowledgments 🙏
 
 - Font Awesome for the icons
-- [Add any other acknowledgments]
+- HTML2Canvas for image downloads
 
 ## License 📄
 
@@ -128,15 +128,7 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 - [ ] Build process and minification
 - [ ] CI/CD pipeline
 
-## Contact 📧
 
-- Project Link: [https://github.com/yourusername/temperature-converter](https://github.com/yourusername/temperature-converter)
-- Email: [your.email@example.com]
 
-## Screenshots 📸
 
-[Add screenshots of your application here]
-
----
-
-Made with ❤️ by [Your Name]
+Made with ❤️ by SMS
