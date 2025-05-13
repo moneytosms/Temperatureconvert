@@ -4,7 +4,7 @@ A modern, responsive temperature converter web application that supports multipl
 
 ![image](https://github.com/user-attachments/assets/b86d323a-591d-41a5-98e6-d53da0f4836c)
 
-Visit the live website [here](https://temperatureconvert.vercel.app/)
+Visit the live website <a href="https://temperatureconvert.vercel.app/" target="_blank">here</a>.
 
 ## Features ✨
 
