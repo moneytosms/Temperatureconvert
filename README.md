@@ -87,10 +87,11 @@ cd temperature-converter
 
 ### Keyboard Shortcuts
 
-- `Enter` - Convert temperature
-- `Escape` - Clear form
-- `Ctrl/Cmd + D` - Toggle dark mode
-- `Ctrl/Cmd + H` - Show help
+- `Ctrl/Cmd + Enter` - Convert temperature
+- `Ctrl/Cmd + C` - Copy results to clipboard
+- `Ctrl/Cmd + R` - Clear form
+- `Ctrl/Cmd + S` - Swap Units 
+- `Escape` - Exit help modal
 
 ### Theme Toggle
 
