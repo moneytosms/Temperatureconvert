@@ -4,6 +4,8 @@ A modern, responsive temperature converter web application that supports multipl
 
 ![image](https://github.com/user-attachments/assets/b86d323a-591d-41a5-98e6-d53da0f4836c)
 
+Visit the live website [here](https://temperatureconvert.vercel.app/)
+
 ## Features ✨
 
 ### Temperature Units
@@ -113,6 +115,7 @@ We welcome contributions! Please feel free to submit a Pull Request.
 
 - Font Awesome for the icons
 - HTML2Canvas for image downloads
+- Vercel for Deployment
 
 ## License 📄
 
